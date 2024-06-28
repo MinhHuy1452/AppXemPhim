@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431787326398",
+    "firebase_url": "https://movieneh-default-rtdb.firebaseio.com",
+    "project_id": "movieneh",
+    "storage_bucket": "movieneh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431787326398:android:db4414c999f51f6e3517ef",
+        "android_client_info": {
+          "package_name": "com.example.app_xemphim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431787326398-ja7olkdmoc3qk809al0pdqcga8b7m50e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_xemphim",
+            "certificate_hash": "5fb5e65fc357e2980dc07fe661ded12111018cea"
+          }
+        },
+        {
+          "client_id": "431787326398-894a565mrl2dr0lrh75m2rcqkpg069ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0jLXdTfXwylex4EGApflIqB7pWgFsI7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431787326398-894a565mrl2dr0lrh75m2rcqkpg069ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
